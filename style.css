@@ -70,4 +70,6 @@ p.txt2 {
 
 hr.trenn1 {
   width: 50%;
+  animation-name: main;
+  animation-duration: 1s;
 }
